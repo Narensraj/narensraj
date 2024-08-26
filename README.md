@@ -7,7 +7,7 @@ I'm a passionate embedded systems engineer dedicated to turning innovative ideas
 ## Work Experience
 
 ### Climate Control Systems Inc, Leamington, Ontario - Canada
-**Controls/Software Developer** | Jan 2022 - Present
+**Controls/Software Developer** | Jan 2023 - Present
 
 - Designed and developed HMI/SCADA screens for Windows (PAC Display) and web-based (Groov View) platforms using Opto 22 controllers.
 - Contributed to R&D, developing software using PAC Control for various products like Fertigation Manager, Ozone Pro, and Climate Manager.
