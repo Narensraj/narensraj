@@ -29,7 +29,7 @@ I am a passionate **Embedded Systems Engineer** specializing in designing and de
 - 🌐 Integrated **Dynamic DNS & MQTT** for cloud-accessible remote systems  
 - 🏗️ Contributor to internal tools for industrial climate, irrigation, and fertigation control  
 
-> 💼 Some of my most impactful projects are private due to NDA or client confidentiality, but they include:  
+> 💼 Some of my most impactful projects are private they include:  
 > - 🔹 Industrial water treatment controller (CAN/Modbus)  
 > - 🔹 Multi-zone irrigation + fertigation system (24/7 logging, OTA, SCADA UI)  
 > - 🔹 Secure greenhouse climate control system with remote firmware sync  
