@@ -37,7 +37,7 @@ I am a passionate **Embedded Systems Engineer** specializing in designing and de
 ---
 
 ## 📊 **GitHub Stats**  
-> ⚠️ Includes public and authorized private contributions. Some private activity may take up to 24–48 hours to appear due to GitHub’s update cycle.
+> ⚠️ Includes public and authorized private contributions.
 
 ![Naren's GitHub stats](https://github-readme-stats.vercel.app/api?username=narensraj&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1)
 
