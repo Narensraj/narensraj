@@ -37,14 +37,17 @@ I am a passionate **Embedded Systems Engineer** specializing in designing and de
 ---
 
 ## 📊 **GitHub Stats**  
-> Includes public and authorized private contributions  
-![Naren's GitHub stats](https://github-readme-stats.vercel.app/api?username=narensraj&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narensraj&theme=radical)  
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=narensraj&theme=radical)  
+> ⚠️ Includes public and authorized private contributions. Some private activity may take up to 24–48 hours to appear due to GitHub’s update cycle.
+
+![Naren's GitHub stats](https://github-readme-stats.vercel.app/api?username=narensraj&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narensraj&theme=radical&cache_seconds=1)
+
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=narensraj&theme=radical&cache=1)
 
 ---
 
 ## 💡 **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narensraj&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narensraj&layout=compact&theme=radical&cache_seconds=1)
 
 ---
