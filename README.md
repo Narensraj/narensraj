@@ -29,28 +29,39 @@ I am a passionate **Embedded Systems Engineer** specializing in designing and de
 - 🌐 Integrated **Dynamic DNS & MQTT** for cloud-accessible remote systems  
 - 🏗️ Contributor to internal tools for industrial climate, irrigation, and fertigation control  
 
-> 💼 Some of my most impactful projects are private they include:  
+> 💼 Some of my most impactful projects are private. They include:  
 > - 🔹 Industrial water treatment controller (CAN/Modbus)  
 > - 🔹 Multi-zone irrigation + fertigation system (24/7 logging, OTA, SCADA UI)  
 > - 🔹 Secure greenhouse climate control system with remote firmware sync  
 
 ---
-## 📊 3D Contribution Graph
 
-<img src="https://raw.githubusercontent.com/narensraj/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+## 📊 **GitHub Stats Overview**  
+> ⚠️ Includes public and private contributions (if authorized)
 
-## 📊 **GitHub Stats**  
-> ⚠️ Includes public and authorized private contributions.
+![Naren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=narensraj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues&cache_seconds=3600)
 
-![Naren's GitHub stats](https://github-readme-stats.vercel.app/api?username=narensraj&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narensraj&theme=radical&cache_seconds=3600)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=narensraj&theme=radical&cache_seconds=1)
-
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=narensraj&theme=radical&cache=1)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=narensraj&theme=radical&cache=3600)
 
 ---
 
-## 💡 **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narensraj&layout=compact&theme=radical&cache_seconds=1)
+## 📈 **Activity Graph**  
+> Contributions and activity over time
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=narensraj&theme=radical&hide_border=true&area=true)
+
+---
+
+## 💡 **Top Languages by Usage**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narensraj&layout=compact&theme=radical&langs_count=10&cache_seconds=3600)
+
+---
+
+## 📦 **GitHub Metrics**  
+> Includes overall contribution, repository insights, activity, and metadata
+
+![Metrics](https://github-metrics.vercel.app/api?username=narensraj&theme=radical&base=header,activity,community,repositories,metadata&config.timezone=America%2FToronto)
 
 ---
