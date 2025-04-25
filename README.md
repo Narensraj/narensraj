@@ -35,6 +35,9 @@ I am a passionate **Embedded Systems Engineer** specializing in designing and de
 > - 🔹 Secure greenhouse climate control system with remote firmware sync  
 
 ---
+## 📊 3D Contribution Graph
+
+<img src="https://raw.githubusercontent.com/narensraj/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 ## 📊 **GitHub Stats**  
 > ⚠️ Includes public and authorized private contributions.
