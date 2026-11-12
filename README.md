@@ -1,66 +1,116 @@
-# Naren Subburaj  
-### Embedded Systems Engineer  
+# Naren Subburaj
 
-I am a passionate **Embedded Systems Engineer** specializing in designing and developing **hardware–software solutions** for real-time and resource-constrained environments. With experience spanning **embedded firmware development, control software, and the full Software Development Life Cycle (SDLC)**, I focus on building **scalable, efficient, and secure** embedded systems.  
+### Embedded Systems Engineer
 
----
+**Firmware · FPGA · Machine Vision · Industrial Automation**
 
-## Expertise & Skills  
-- **Embedded Firmware Development:** C/C++, Rust, Python  
-- **Microcontroller & SoC Platforms:** ESP32, STM32, ARM Cortex, PIC  
-- **Real-Time Operating Systems (RTOS):** FreeRTOS, Zephyr  
-- **Communication Protocols:** I²C, SPI, UART, CAN, Modbus, RS-485  
-- **Wireless Technologies:** Wi-Fi, BLE, LoRa  
-- **Secure Systems:** OTA Updates, AES Encryption, Firmware Signing  
-- **PCB Design:** KiCad, Altium – Multilayer and RF Layout  
-- **Sensor & I/O Integration:** Analog, Digital, Modbus RTU  
-- **Full-Stack IoT:** Web UI, WebSocket, SD Logging, FSM Architecture  
+I develop embedded systems that bring together **custom hardware, firmware, real-time control, and application software**. My work spans microcontrollers, FPGA image-processing pipelines, embedded Linux, and industrial communication, with a focus on practical integration, efficient resource use, and maintainable design.
+
+From sensor interfaces and control logic to desktop tools and monitoring dashboards, I work across the development lifecycle: requirements, hardware integration, implementation, testing, deployment, and ongoing improvement.
 
 ---
 
-## Key Highlights & Achievements  
-- Developed a **real-time automation controller** for commercial greenhouses (ESP32 + FreeRTOS + OTA)  
-- Built a **remote sensor dashboard** with secure WebSocket and SD-based trend logging  
-- Designed a **Modbus RTU framework** for multi-sensor industrial networks  
-- Delivered encrypted OTA updates via ZIP with **AES-256-CBC** on ESP32  
-- Created a SCADA-like **finite state machine (FSM) visualization system** for live process monitoring  
-- Deployed systems across **India, Canada, and the United States**  
-- Collaborated with industrial automation firms on proprietary control systems  
-- Integrated **Dynamic DNS** and **MQTT** for cloud-accessible remote systems  
-- Contributed to internal tools for industrial climate, irrigation, and fertigation control  
+## Expertise & Skills
 
-### Confidential Project Examples  
-- Industrial water-treatment controller (CAN/Modbus)  
-- Multi-zone irrigation + fertigation system (24/7 logging, OTA, SCADA UI)  
-- Secure greenhouse climate-control system with remote firmware synchronization  
-
----
-
-## GitHub Stats Overview  
-*Includes public and authorized private contributions.*
-
-![Naren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=narensraj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues&cache_seconds=3600)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=narensraj&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=narensraj&limit=5&theme=radical&combine_all_yearly_contributions=true)
+| Area | Technologies & Experience |
+| --- | --- |
+| **Programming** | C, C++, Python, Rust, JavaScript |
+| **Embedded Platforms** | ESP32 / ESP32-S3, STM32, AVR ATtiny / ATmega, SAMD21, PIC, ARM Cortex |
+| **FPGA & RTL** | VHDL, Verilog, Xilinx Artix-7, Vivado, streaming pipelines, simulation, BRAM / DSP resource optimization |
+| **Real-Time Software** | FreeRTOS, Zephyr, finite state machines, concurrent tasks, interrupt-driven processing |
+| **Embedded Linux** | Raspberry Pi 5, Linux application development, GPIO, serial interfaces, camera integration |
+| **Industrial Interfaces** | I²C, SPI, UART, CAN, Modbus RTU, RS-485 |
+| **Connectivity** | Wi-Fi, BLE, LoRa, MQTT, HTTP / HTTPS, WebSocket |
+| **Machine Vision** | OpenCV, camera calibration, image segmentation, ONNX integration, colour and size classification |
+| **Firmware Updates & Security** | OTA update workflows, AES encryption, firmware signing, TLS integration |
+| **PCB & Hardware** | KiCad, Altium, multilayer PCB design, RF layout, analog / digital sensor integration |
+| **Data & User Interfaces** | Local web dashboards, Python desktop tools, SD-card logging, LittleFS, historical charts, calibration reports |
+| **Development & Validation** | Git, firmware debugging, protocol diagnostics, simulation tools, hardware–software integration |
 
 ---
 
-## Activity Graph  
-*Contributions and activity over time.*
+## Selected Engineering Work
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narensraj&theme=radical&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+### FPGA Image Processing & Optical Sorting
+
+Developing streaming image-processing and control logic for industrial sorting systems, including defect detection, binary-mask processing, object tracking, and ejector timing. My work includes pipeline alignment, simulation, and optimizing logic and memory use within FPGA resource constraints.
+
+### Grain Analysis & Machine Vision
+
+Developing camera and analysis workflows for grain inspection, including image capture, lens calibration, tray-aware foreground extraction, segmentation, and colour / size classification. This work connects Windows development tools with Raspberry Pi applications and includes both AI-assisted processing and configurable non-AI rules.
+
+### Industrial Process Automation
+
+Developed controllers and monitoring interfaces for greenhouse, irrigation, fertigation, and water-treatment applications. These systems combine sensor acquisition, state-machine control, industrial communication, data logging, and operator dashboards.
+
+### Environmental Monitoring
+
+Built ESP32-S3 temperature and humidity monitoring systems with local browser dashboards, historical data logging, BLE configuration, alarm settings, and calibration-report workflows.
+
+### Engineering & Diagnostic Tools
+
+Created Python utilities and browser-based simulators for RS-485 communication, device configuration, protocol testing, image-processing evaluation, and firmware validation.
 
 ---
 
-## Top Languages by Usage  
+## Key Highlights
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narensraj&layout=compact&theme=radical&langs_count=10&cache_seconds=3600)
+- Developed **ESP32 automation controllers** using FreeRTOS, sensor integration, process-control logic, and OTA update workflows.
+- Built **remote monitoring dashboards** with live readings, WebSocket communication, and SD-based historical logging.
+- Designed **Modbus RTU communication frameworks** for industrial devices and multi-sensor networks.
+- Implemented **encrypted OTA package delivery** for ESP32 firmware maintenance.
+- Created **SCADA-style process visualizations** for monitoring finite state machines and equipment status.
+- Worked on **FPGA vision pipelines** with attention to pixel alignment, memory use, and real-time processing.
+- Developed **camera, segmentation, and classification tools** for grain-analysis applications.
+- Collaborated with industrial automation firms on proprietary control systems and supported deployments across **India, Canada, and the United States**.
 
 ---
 
-## GitHub Metrics  
-*Overall contributions, repositories, activity, and metadata summary.*
+## Current Focus
 
-![Metrics](https://metrics.lecoq.io/narensraj?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FToronto)
+- Resource-efficient FPGA image processing and precise sorting control.
+- Grain segmentation and configurable colour / size analysis.
+- Reliable embedded firmware, device diagnostics, and maintainable update workflows.
+- Practical integration of microcontrollers, embedded Linux, industrial networks, and operator software.
+
+---
+
+## Commercial & Confidential Work
+
+Some of my engineering work involves proprietary products and customer systems. Public repositories contain selected tools, experiments, and shareable implementations; they represent only part of my project experience.
+
+---
+
+## GitHub Activity
+
+*These cards provide a snapshot of the activity available to their respective services. Private commercial work may not be represented.*
+
+### Contributions & Streak
+
+[![Naren's GitHub Stats](https://github-stats-extended.vercel.app/api?username=narensraj&show_icons=true&theme=radical&include_all_commits=true&hide=issues&hide_border=true)](https://github.com/narensraj)
+
+[![Naren's GitHub Streak](https://streak-stats.demolab.com/?user=narensraj&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+### Activity Graph
+
+[![Naren's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narensraj&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+### Repository Languages
+
+*Language statistics describe the repositories included by the service; they are not a measure of proficiency.*
+
+[![Naren's Repository Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=narensraj&layout=compact&theme=radical&langs_count=10&hide_border=true)](https://github.com/narensraj?tab=repositories)
+
+### Repository Contributions
+
+![Naren's GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=narensraj&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+### GitHub Metrics
+
+![Naren's GitHub Metrics](https://metrics.lecoq.io/narensraj?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FToronto)
+
+---
+
+## Connect
+
+Find my public work on **[GitHub — @narensraj](https://github.com/narensraj)**.
