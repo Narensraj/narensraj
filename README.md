@@ -101,9 +101,10 @@ Some of my engineering work involves proprietary products and customer systems. 
 
 [![Naren's Repository Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=narensraj&layout=compact&theme=radical&langs_count=10&hide_border=true)](https://github.com/narensraj?tab=repositories)
 
-### Repository Contributions
+### Contribution History & Repositories
 
-![Naren's GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=narensraj&limit=5&theme=radical&combine_all_yearly_contributions=true)
+- [View my contribution history on GitHub](https://github.com/narensraj?tab=overview)
+- [Browse my public repositories](https://github.com/narensraj?tab=repositories)
 
 ### GitHub Metrics
 
