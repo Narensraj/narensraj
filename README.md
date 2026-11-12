@@ -91,10 +91,6 @@ Some of my engineering work involves proprietary products and customer systems. 
 
 [![Naren's GitHub Streak](https://streak-stats.demolab.com/?user=narensraj&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-### Activity Graph
-
-[![Naren's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narensraj&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 ### Repository Languages
 
 *Language statistics describe the repositories included by the service; they are not a measure of proficiency.*
@@ -105,10 +101,6 @@ Some of my engineering work involves proprietary products and customer systems. 
 
 - [View my contribution history on GitHub](https://github.com/narensraj?tab=overview)
 - [Browse my public repositories](https://github.com/narensraj?tab=repositories)
-
-### GitHub Metrics
-
-![Naren's GitHub Metrics](https://metrics.lecoq.io/narensraj?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FToronto)
 
 ---
 
